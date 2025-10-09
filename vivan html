@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style> 
+    span{color: burlywood;
+        font-family: 'Bitcount Prop Single Ink', sans-serif;
+        font-size: 40 px;
+        *{
+            background-color: rgb(240, 171, 163);
+            <link rel="preconnect" href="https://fonts.googleapis.com">
+            <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+            <link href="https://fonts.googleapis.com/css2?family=Bitcount+Prop+Single+Ink:wght@100..900&display=swap" rel="stylesheet">
+        }
+        h1{
+            color:rgb(255, 0, 0);
+            font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            font-size: 64 px;
+            font-display: fallback;
+            text-align: center; 
+            text-decoration-thickness: from-font;
+            text-underline-offset: 4px;
+            block-size: 20px;
+            
+        }
+        
+        h2{
+            color:rgb(63, 134, 228);
+            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif Courier, monospace;
+            font-size:64 px;
+            font-display: swap;
+            text-align:left; 
+        }
+        p{
+            style="background-color: ;;"
+
+
+        }
+    </style>
+
+</head>
+<body>
+    <h1 style="color:rgb(212, 37, 174)" > Anubhav Kumari</h1>
+    <h2>Android <span style ="color: blue; font-family:">Developer</span></h2>
+    <p>Hey everyone as a first year btech cse student I am writing this code just beacause Vivvan sir ask us to doo.That's all</p>
+    <p>Thank you sir for giving us this opportunity to learn something new</p>
+    <p>Have a nice day</p>
+    <p> 😌!!</p>
+</body>
+</html>
